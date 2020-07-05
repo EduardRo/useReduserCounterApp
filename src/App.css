@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 30vmin;
   pointer-events: none;
 }
 
@@ -11,6 +11,13 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+.button {
+  height: 100px;
+  width: 100px;
+}
+span {
+  font-size: 40px;
 }
 
 .App-header {
